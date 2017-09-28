@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Art Gallery</string>
+    <string name="add_new_art_type_here">Add New Art Type Here</string>
+</resources>
